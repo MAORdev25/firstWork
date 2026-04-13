@@ -1,2 +1,2 @@
-name = 'Miguel Angel'
+name = 'Miguelito'
 last_name = "ospina Rua"
