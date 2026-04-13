@@ -1,2 +1,2 @@
-name = 'Miguel'
-last_name = "ospina"
+name = 'Miguel Angel'
+last_name = "ospina Rua"
