@@ -2,7 +2,7 @@ name = 'miguel'
 last_name = "ospina Rua"
 
 
-fruits = ["apple", "pineapple"]
+fruits = ["orange", "pineapple"]
 
 manzana , *otros = fruits
 
